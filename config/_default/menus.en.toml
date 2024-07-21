@@ -1,0 +1,29 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Experiences"
+pageRef = "experiences"
+identifier = "vcnZycyXr9"
+weight = 1
+
+[[main]]
+name = "Projects"
+pageRef = "project"
+identifier = "fgnMOVUUv0"
+weight = 2
+
+[[main]]
+name = "Blog"
+pageRef = "blog"
+identifier = "5zPlR1yjdG"
+weight = 3
+
+[[footer]]
+none = "none"
+
+[[footer]]
+name = "Contact"
+pageRef = "contact"
+identifier = "xjkZrcZfiP"
+weight = 9999

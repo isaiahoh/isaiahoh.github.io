@@ -1,0 +1,19 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Isaiah Ngou"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "isou.png"
+description = "Isaiah's Things and Stuff"
+
+[author]
+name = "Isaiah Ngou"
+image = "Headshot.jpeg"
+headline = "Robotics, ML & Autonomous Systems Enthusiast"
+bio = ""
+links = [ { github = "https://github.com/isaiahoh" }, { linkedin = "https://www.linkedin.com/in/isaiah-ngou/" }, { reddit = "https://www.reddit.com/user/Betsunei/" }, { x-twitter = "https://x.com/isaiahngou" } ]
