@@ -2,12 +2,14 @@
 title: "Experiences"
 date: 2024-07-21
 draft: false
-
 showDate : false
 showAuthor : false
 showReadingTime : false
 showWordCount : false
+layoutBackgroundHeaderSpace: false
+showTableOfContents : true
 ---
+## Work
 {{< timeline >}}
 {{< timelineItem icon="code" header="Perception Systems Intern" badge="05/2024 - Present" subheader="AutonomouStuff (Hexagon AB)" >}}
 {{< keywordList >}}
@@ -51,3 +53,28 @@ showWordCount : false
 </ul>
 {{< /timelineItem >}}
 {{< /timeline >}}
+
+## Education
+<table>
+    <thead>
+        <tr>
+            <th>School</th>
+            <th>Degree</th>
+            <th>Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=4><a href="https://www.ece.utoronto.ca/" target="_blank">University of Toronto</a></td>
+            <td rowspan=4>MEng in ECE - Controls, ML, and, Robotics</td>
+            <td rowspan=4>2023 - Present</td>
+        </tr>
+    </tbody>
+    <tbody>
+        <tr>
+            <td rowspan=4><a href="https://www.eng.mcmaster.ca/ece/" target="_blank">McMaster University</a></td>
+            <td rowspan=4>BEng in Electrical Engineering</td>
+            <td rowspan=4>2018 - 2023</td>
+        </tr>
+    </tbody>
+</table>

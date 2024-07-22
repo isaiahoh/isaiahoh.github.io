@@ -5,7 +5,7 @@ enableSearch = true
 enableCodeCopy = false
 disableImageOptimization = false
 disableTextInHeader = false
-defaultBackgroundImage = "."
+defaultBackgroundImage = "background.svg"
 defaultFeaturedImage = "."
 
 [header]
@@ -19,14 +19,15 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
-showRecent = true
-showRecentItems = 5
+layout = "background"
+showRecent = false
+showRecentItems = "5"
 showMoreLink = false
 showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = ""
+homepageImage = "background.svg"
 
 [article]
 showDate = true
