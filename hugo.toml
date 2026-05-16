@@ -1,0 +1,66 @@
+baseURL = "https://isaiahoh.github.io/"
+defaultContentLanguage = "en"
+theme = "terminal"
+pagination.pagerSize = 5
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  # dir name of your main content (e.g. content/posts). The default is "posts"
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "orange"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+  # show selector to switch language
+  showLanguageSelector = false
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # set a custom date format for last updated
+  # updatedDatePrefix = "Updated"
+  # set all headings to their default size (depending on browser default sizes)
+  # oneHeadingSize = true # default
+  # whether to show a "Read more" link in the post list
+  # missingContentMessage = "Page not found..."
+  # missingBackButtonLabel = "Back to home page"
+
+  [params.twitter]
+    # set Twitter handles for Twitter cards
+    # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+    # do not include @
+    # creator = ""
+    # site = ""
+
+[languages]
+  [languages.en]
+    title = "Isaiah Ngou"
+    label = "English"
+    locale = "en-us"
+    copyright = "© Isaiah Ngou"
+
+    [languages.en.params]
+      subtitle = "Robotics, ML & Autonomous Systems"
+      keywords = "robotics, machine learning, autonomous systems, SLAM, computer vision"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+
+      [languages.en.params.logo]
+        logoText = "isaiah@ngou:~$"
+        logoHomeLink = "/"
+

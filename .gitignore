@@ -15,3 +15,6 @@ hugo.linux
 # OS generated files
 .DS_Store
 .DS_Store?
+
+# Local cache (theme migration backups, etc.)
+/.cache/
