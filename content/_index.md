@@ -8,8 +8,9 @@
 
 ## previously
 
-@ AutonomouStuff (Hexagon AB) · McMaster University · Amazon
+AutonomouStuff (Hexagon AB) · McMaster University · Amazon
 
 ## education
 
-M.Eng, ECE — [University of Toronto](https://www.ece.utoronto.ca/) · B.Eng, Electrical Engineering — [McMaster University](https://www.eng.mcmaster.ca/ece/)
+- M.Eng, ECE — [University of Toronto](https://www.ece.utoronto.ca/)
+- B.Eng, Electrical Engineering — [McMaster University](https://www.eng.mcmaster.ca/ece/)
